@@ -1,3 +1,5 @@
+package tdd;
+
 public enum Weight {
     MustMatch(Integer.MAX_VALUE),
     VeryImportant(5000),

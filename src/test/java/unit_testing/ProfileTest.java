@@ -1,5 +1,8 @@
+package unit_testing;
+
 import org.junit.Before;
 import org.junit.Test;
+import unit_testing.*;
 
 import static org.hamcrest.CoreMatchers.equalTo;
 import static org.junit.Assert.*;

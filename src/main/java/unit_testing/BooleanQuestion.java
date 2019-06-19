@@ -1,3 +1,5 @@
+package unit_testing;
+
 public class BooleanQuestion extends Question {
     public BooleanQuestion(int id, String text) {
 

@@ -1,4 +1,8 @@
+package unit_testing;
+
 import org.junit.Test;
+import unit_testing.ScoreCollection;
+
 import static org.hamcrest.CoreMatchers.*;
 
 import static org.junit.Assert.*;
